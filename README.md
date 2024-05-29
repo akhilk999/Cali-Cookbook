@@ -1,5 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/1208493781884735568/1245145612127572020/IMG_0030-removebg-preview.png?ex=6657afb7&is=66565e37&hm=402a1e014e8111c599d741891135f4a2d8454045686db19337372a3c5d192f7f&)
-# Cali's Cookbook
+![Logo](https://cdn.discordapp.com/attachments/1208493781884735568/1245498662990118953/IMG_0035-removebg-preview.png?ex=6658f885&is=6657a705&hm=5a41663e40c75fa288b6474f05a41449b7028e0b201135b7b59d29f3e3ff70e0&)
 
 Built by Akhil Kasamsetty, Daniel Lee, Heidi Wang, Roy Chen, Andrew Li, and Jayna Yamauchi.
 
@@ -10,4 +9,4 @@ Set in a small diner on the outskirts of Danville, Cali’s Cookbook is a relaxe
 
 ## Tools
 
-Our app was built in C# using the Unity game engine (3D URP).
+Our game was built in C# using the Unity game engine (3D URP).

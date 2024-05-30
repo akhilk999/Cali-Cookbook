@@ -14,10 +14,9 @@ public class MainMenuUI : MonoBehaviour
     private void Awake() {
         playButton.onClick.AddListener(() => {
             Debug.Log("Play");
-            //Loader.Load(Loader.Scene.GameScene);
+            Loader.Load(Loader.Scene.GameScene);
         });
         creditButton.onClick.AddListener(() => {
-            Debug.Log("Credit");
             Swap();
         });
         exitButton.onClick.AddListener(() => {

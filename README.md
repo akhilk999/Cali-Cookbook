@@ -1,4 +1,4 @@
-![Logo](https://cdn.discordapp.com/attachments/1208493781884735568/1245498662990118953/IMG_0035-removebg-preview.png?ex=6658f885&is=6657a705&hm=5a41663e40c75fa288b6474f05a41449b7028e0b201135b7b59d29f3e3ff70e0&)
+![Logo](Assets/_Assets/Textures/title_logo_logo_transparent.png)
 
 Built by Akhil Kasamsetty, Daniel Lee, Heidi Wang, Roy Chen, Andrew Li, and Jayna Yamauchi.
 

@@ -1,4 +1,4 @@
-![Logo](Assets/_Assets/Textures/title_logo_logo_transparent.png)
+![Logo](Assets/_Assets/Art/UI%20Art/Misc/title_logo_logo_transparent.png)
 
 Built by Akhil Kasamsetty, Daniel Lee, Heidi Wang, Roy Chen, Andrew Li, and Jayna Yamauchi.
 

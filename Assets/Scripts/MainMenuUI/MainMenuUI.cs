@@ -11,6 +11,9 @@ public class MainMenuUI : MonoBehaviour
     [SerializeField] private Button exitButton;
     [SerializeField] private GameObject other;
 
+    /*
+     * Runs play, credits, or exit based on which is clicked
+     */
     private void Awake() {
         playButton.onClick.AddListener(() => {
             Debug.Log("Play");
@@ -25,6 +28,9 @@ public class MainMenuUI : MonoBehaviour
         });
     }
 
+    /*
+     * Swaps Main Screen frame with Credits frame to display credits
+     */
     private void Swap() {
         Vector3 temp = this.transform.position;
         this.transform.position = other.transform.position;

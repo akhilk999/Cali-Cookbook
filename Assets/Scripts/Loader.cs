@@ -13,12 +13,17 @@ public static class Loader {
 
     private static Scene targetScene;
 
+    /*
+     * Loads the Loading Screen
+     */
     public static void Load(Scene targetScene) {
         Loader.targetScene = targetScene;
 
         SceneManager.LoadSceneAsync(Scene.LoadingScene.ToString());
     }
-
+    /*
+     * Loads the Target Scene
+     */
     public static void LoaderCallback() {
         SceneManager.LoadSceneAsync(targetScene.ToString());
     }

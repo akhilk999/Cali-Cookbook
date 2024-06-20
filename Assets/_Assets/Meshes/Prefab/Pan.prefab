@@ -78,6 +78,11 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -5568371526223589888, guid: c60bec2db1465444d93732070173372c,
+        type: 3}
+      propertyPath: m_Name
+      value: Pan
+      objectReference: {fileID: 0}
     - target: {fileID: -1853094968961178454, guid: c60bec2db1465444d93732070173372c,
         type: 3}
       propertyPath: m_BackGroundColor.a
@@ -136,6 +141,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcc5202a8c42d7f4cba651034d534c1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _activityManager: {fileID: 0}
   _outlineMaterial: {fileID: 2100000, guid: b0e6370c18db5fd40833bf86ec45e9b8, type: 2}
   _selectColor: {r: 1, g: 1, b: 0, a: 0}
   _deselectColor: {r: 0, g: 0, b: 0, a: 0}

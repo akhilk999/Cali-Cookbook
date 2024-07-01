@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 58c4b3ed824dab34a8119619e67d7ede, type: 3}
   m_Name: MilkshakeRecipe
   m_EditorClassIdentifier: 
-  input: {fileID: 0}
-  output: {fileID: 0}
+  input: []
+  output: {fileID: 11400000, guid: a9ced1de29e6870428483aa445ae11df, type: 2}

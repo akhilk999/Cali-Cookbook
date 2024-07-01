@@ -12,5 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68bbaa99a9dbeaa4aba2138c4e385933, type: 3}
   m_Name: PastaRecipe
   m_EditorClassIdentifier: 
-  input: {fileID: 0}
+  input:
+  - {fileID: 0}
   output: {fileID: 0}

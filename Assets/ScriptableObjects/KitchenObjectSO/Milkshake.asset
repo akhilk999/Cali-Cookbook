@@ -9,9 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 58c4b3ed824dab34a8119619e67d7ede, type: 3}
-  m_Name: SmoothieRecipe
+  m_Script: {fileID: 11500000, guid: 76f73d189d1ea0940b83a7a95011e658, type: 3}
+  m_Name: Milkshake
   m_EditorClassIdentifier: 
-  input:
-  - {fileID: 0}
-  output: {fileID: 0}
+  prefab: {fileID: 0}
+  sprite: {fileID: 0}
+  objectName: 

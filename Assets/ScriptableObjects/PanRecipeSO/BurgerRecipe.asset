@@ -12,5 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68bbaa99a9dbeaa4aba2138c4e385933, type: 3}
   m_Name: BurgerRecipe
   m_EditorClassIdentifier: 
-  input: {fileID: 0}
+  name: Burger
+  input:
+  - {fileID: 11400000, guid: 3ca64232da0f5e646b8e2ce91286545e, type: 2}
+  - {fileID: 11400000, guid: 524651d981ffa5242bc5036ec035f1a9, type: 2}
+  - {fileID: 11400000, guid: 0c46bb59b95cfc142a433b888d10ced9, type: 2}
   output: {fileID: 0}

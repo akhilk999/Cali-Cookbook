@@ -5,6 +5,9 @@ using UnityEngine;
 [CreateAssetMenu()]
 public class PanRecipeSO : ScriptableObject
 {
-    public KitchenObjectSO input;
+    public List<KitchenObjectSO> input;
     public KitchenObjectSO output;
+
+    //override
+    //public string ToString() {return output.ToString();}
 }
